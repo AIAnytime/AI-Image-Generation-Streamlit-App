@@ -1,8 +1,7 @@
-streamlit
-openai
-python-dotenv
+streamlit==1.39.0
+torch==2.5.0
 diffusers==0.10.2
-transformers 
-scipy 
-ftfy 
-accelerate
+huggingface-hub==0.26.0
+python-dotenv==1.0.1
+numpy==2.1.2
+# Add any other dependencies you need for your app
